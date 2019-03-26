@@ -1,7 +1,7 @@
 
 def loop_iterator(number_of_times)
- 
-  loop do
+ loop do
+   
     puts "Welcome to Flatiron School's Web Development Course!"
 end
 end
